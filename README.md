@@ -51,10 +51,10 @@ HomeWork.jar<br>
 │   ├─ SaleDAO.class<br>
 │   └─ DrugDAO.class<br>
 │   └─impl/                     # DAO 實作<br>
-│   ├─ EmployeeDAOImpl.class<br>
-│   ├─ MemberDAOImpl.class<br>
-│   ├─ SalesDAOImpl.class<br>
-│   └─ DrugDAOImpl.class<br>
+│  　 ├─ EmployeeDAOImpl.class<br>
+│  　 ├─ MemberDAOImpl.class<br>
+│  　 ├─ SalesDAOImpl.class<br>
+│  　 └─ DrugDAOImpl.class<br>
 │<br>
 ├─ model/                        # 資料模型<br>
 │   ├─ Employee.class<br>
@@ -68,10 +68,10 @@ HomeWork.jar<br>
 │   ├─ SaleService.class<br>
 │   └─ DrugService.class<br>
 │   └─service/impl/                 # Service 實作<br>
-│   ├─ EmployeeServiceImpl.class<br>
-│   ├─ MemberServiceImpl.class<br>
-│   ├─ SaleServiceImpl.class<br>
-│   └─ DrugServiceImpl.class<br>
+│  　 ├─ EmployeeServiceImpl.class<br>
+│  　 ├─ MemberServiceImpl.class<br>
+│ 　  ├─ SaleServiceImpl.class<br>
+│ 　  └─ DrugServiceImpl.class<br>
 │<br>
 └─ util/                         # 工具類<br>
     ├─CodeGeneratorUtil          # 訂單生成<br>
